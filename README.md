@@ -1,4 +1,8 @@
-# DyNAS-DDI
+<h1 align="center">DyNAS-DDI</h1>
+<p align="center">
+Dynamic Pairwise Architecture Search for Generalizable Drug-Drug Interaction LLM
+</p>
+
 Code implementation for DyNAS-DDI: Dynamic Pairwise Architecture Search for Generalizable Drug-Drug Interaction LLM, accepted by ACM MM 2025. Our paper is available at [Paper](https://dl.acm.org/doi/epdf/10.1145/3746027.3755791).
 
 ![Method](method.png)
@@ -20,8 +24,6 @@ Important dependency notes:
 - Install `pytorch` according to your CUDA version from the official PyTorch guide.
 - Install `pytorch_geometric` using the official installation matrix.
 - `autogllight` code is vendored in this repository (`autogllight/`), so no separate pip package is required for the local code path.
-
-https://drive.google.com/drive/folders/1fO3ai7OuB5TskmdvslZDjFj1ZalIMEAc?usp=sharing
 
 ## 2. External Resources
 
