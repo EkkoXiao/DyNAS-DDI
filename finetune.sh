@@ -24,6 +24,7 @@ python main.py \
     --save_every_n_epochs 1 \
     --num_beams 1 \
     --use_att \
+    --stage2_path "all_checkpoints/pretrain_ChChMiner_scaffold/last.ckpt"
 
 # python main.py \
 #     --root '../OOD/Drugbank_scaffold/' \
@@ -48,4 +49,4 @@ python main.py \
 #     --save_every_n_epochs 1 \
 #     --num_beams 1 \
 #     --use_att \
-    
+#     --stage2_path "all_checkpoints/pretrain_Drugbank_scaffold/last.ckpt"

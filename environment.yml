@@ -203,4 +203,4 @@ dependencies:
       - webencodings==0.5.1
       - wrapt==2.0.1
       - yarl==1.22.0
-prefix: /villa/xlx21/anaconda3/envs/MolTC
+prefix: /villa/xlx21/anaconda3/envs/DyNAS
