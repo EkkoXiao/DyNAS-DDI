@@ -1,0 +1,15 @@
+result/*
+!result/.gitkeep
+**/__pycache__/
+all_checkpoints/*
+!all_checkpoints/.gitkeep
+modelscope/*
+gin_pretrained/*
+bert_pretrained/*
+data/*
+dicts/*
+autogllight.egg-info
+graces/ogb
+dist/
+test.ipynb
+.vscode/
